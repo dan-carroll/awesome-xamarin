@@ -36,7 +36,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## General
 
 - [AutoMapper ★5,724](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
-- [Fluent Validation ★3,570](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
+- [Fluent Validation ★3,570](https://github.com/FluentValidation/FluentValidation) - Fluent interface and lambda expressions for building validation rules.
 - [Humanizer ★3,426](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities.
 - [NodaTime ★970](https://github.com/nodatime/nodatime) - Alternative date and time API for .NET.
 - [Polly ★4,666](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker.
@@ -52,12 +52,12 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## Async
 
 - [AsyncEx ★1,253](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
-- [LinqToAwait ★98](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
+- [LinqToAwait ★99](https://github.com/anaisbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await.
 
 
 ## Charts
 
-- [MicroCharts ★765](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+- [MicroCharts ★1052](https://github.com/dotnet-ad/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 - [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - MPAndroidChart/iOSCharts binding support use in Xamarin Forms.
 - [OxyPlot ★1,311](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET.
 
@@ -79,12 +79,13 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Realm ★690](https://github.com/realm/realm-dotnet) - Mobile database that runs directly inside phones, tablets or wearables.
 - [Settings ★58](https://github.com/aritchie/settings) - Cross platform settings plugin for Xamarin and Windows.
 - [SQLite.Net-PCL ★340](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async.
-
+- [LiteDB ★4245](https://github.com/mbdavid/LiteDB) -  A .NET NoSQL Document Store in a single data file.
+- [DB4O-GPL ★8](https://github.com/iboxdb/db4o-gpl) -  Object-Oriented Database, Embedded and Remote connections supported.
 
 ## Fody
 
 - [Fody ★2,150](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies.
-	- [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties.
+	- [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/src) - Automatically generates DependencyProperty boilerplate from simple C# properties.
 	- [PropertyChanged.Fody ★820](https://github.com/Fody/PropertyChanged/) - Injects INotifyPropertyChanged code into properties at compile time.
 	- [ReactiveUI.Fody ★105](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties.
 
@@ -93,7 +94,6 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [Ammy](http://www.ammyui.com/) - Modern UI language for XAML platforms. Free for non-commercial development.
 - [Appercode.UIFramework ★13](https://github.com/Appercode/Appercode.UIFramework) - Allows to build user interface of cross-platform mobile applications with single XAML layout.
-- [Fusion ★13](https://github.com/Appercode/Appercode.UIFramework) - Cross-platform C#-based mobile app development framework, built on top of Xamarin.iOS and Xamarin.Android.
 - [Invention](https://gitlab.com/hodgskin-callan/Invention) - Develop native apps for iOS, Android and Windows with 100% code sharing using Visual Studio and C#.NET.
 - [SimplyMobile ★103](https://github.com/sami1971/SimplyMobile) - Collection of abstracted mobile functionalities.
 - [Xamu-Infrastructure ★104](https://github.com/xamarinhq/xamu-infrastructure) - Extensions, MVVM classes, behaviors and other misc. useful code bits from Xamarin University.
@@ -104,6 +104,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [MonoGame ★5,276](https://github.com/MonoGame/MonoGame) - Open source implementation of the Microsoft XNA 4.x Framework.
 - [Paradox ★1,706](https://github.com/SiliconStudio/xenko) - Paradox3D + Silicon Studio .NET.
 - [UrhoSharp ★275](https://github.com/xamarin/urho) - Cross-platform high-level 3D and 2D engine.
+- [CocosCreator ★2](https://github.com/toanlcgift/xamarin-cocos-creator) - Xamarin binding for CocosCreator Engine.
 
 
 ## IO/Storage
@@ -140,9 +141,9 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 - [EZ-Compress ★11](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin.
 - [Fast & Furious Image Loading ★820](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily.
-- [Lottie ★643](https://github.com/martijn00/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
+- [Lottie ★643](https://github.com/Baseflow/LottieXamarin) - Render After Effects animations natively on Android and iOS for Xamarin.
 - [LibVLCSharp ★174](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
-- [MediaManager ★269](https://github.com/martijn00/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
+- [MediaManager ★269](https://github.com/Baseflow/XamarinMediaManager) - Cross platform Xamarin plugin to play Media from PCL.
 - [NGraphics ★482](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics.
 - [PDFReader ★51](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone.
 - [SkiaSharp ★920](https://github.com/mono/SkiaSharp) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library.
@@ -166,7 +167,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [MvvmNano ★46](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms.
 - [Prism ★2,365](https://github.com/prismlibrary/prism) - Cross-platform MVVM development framework.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework.
-- [Wires ★28](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
+- [Wires ★28](https://github.com/dotnet-ad/Wires) - Wires is a simple binding library.
 
 
 ## Network
@@ -176,15 +177,17 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
 - [Fusillade ★216](https://github.com/reactiveui/Fusillade) - Set of HttpMessageHandlers that make your mobile applications more efficient and responsive.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - Make a phone call, send a sms or send an e-mail using the default messaging applications.
-- [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
+- [ModernHttpClient](https://github.com/alexrainman/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp).
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - Xamarin plugin for reading NFC tags.
 - [Push Notification ★1](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 - [Reachability ★25](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check.
 - [Refit ★2,762](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET.
 - [RestEase ★339](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
 - [RestLess ★57](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
+- [RestSharp ★6,994](https://github.com/restsharp/RestSharp) - Simple REST and HTTP API Client for .NET.
 - [Sockets ★185](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT.
 - [Tiny.RestClient ★31](https://github.com/jgiacomini/Tiny.RestClient) - Description Simpliest Fluent REST client for Xamarin and .NET.
+
 
 ## Reactive
 
@@ -194,6 +197,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) - Provides MVVM and asynchronous support features under Reactive Extensions.
 - [RxFlow ★18](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions).
 - [Sensors](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows.
+- [CrossPlatformLiveData](https://github.com/jakdor/CrossPlatformLiveData) - Android LiveData inspired .NET implementation - lifecycle aware rx streams.
 
 
 ## Security
@@ -220,6 +224,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 ## Tools
 
 - [Cheeseknife ★53](https://github.com/MarcelBraghetto/Cheeseknife) - A view injection library for Xamarin.Android.
+- [IconFont2Code ★52](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
 - [GradleBindings ★103](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects.
 - [Material icons generator plugin - Xamarin Studio ★14](https://github.com/interisti/xs-material-icons-generator) - Adding material icons to android project.
 - [Material icons generator plugin - Visual Studio](https://github.com/interisti/vs-material-icons-generator) - Adding material icons to android project.
@@ -233,6 +238,7 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 
 ## UI
 
+- [Essential UI Kit ★130](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) - Beautiful XAML pages for Xamarin.Forms app.
 - [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) - Signature Pad makes capturing, saving, exporting, and displaying signatures extremely simple on Xamarin.iOS, Xamarin.Android and Windows.
 - [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - Rich set of UI components and file format libraries for Xamarin.Forms, Xamarin.iOS and Xamarin.Android applications.
@@ -240,7 +246,10 @@ A hand-picked bookmark collection of subjectively modern/interesting and ideally
 - [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) -  Telerik UI for Xamarin offers more the 70 controls to build professional-looking modern mobile applications for iOS, Android and UWP from a single code base.
 - [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView) - _Xamarin.Android_ Native showcase view. An easy-to-use customizable show case view with circular reveal animation.
 - [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - A determiante/indetermiante loading view animation.
-
+- [Animated Icon Button](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) - An animated icon button for Xamarin.iOS.
+- [SimpleBottomDrawer](https://github.com/galadril/Xam.Plugin.SimpleBottomDrawer) - Just a nice and simple BottomDrawer for your Xamarin Forms project
+- [SimpleColorPicker](https://github.com/galadril/Xam.Plugin.SimpleColorPicker) - Just a nice and simple ColorPicker for your Xamarin Forms project
+- [SimpleAppIntro](https://github.com/galadril/Xam.Plugin.SimpleAppIntro) - Just a nice and simple AppIntro for your Xamarin Forms project
 
 
 ## Wearable
